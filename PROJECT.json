@@ -1,0 +1,9 @@
+{
+  "name": "GearLoop",
+  "slug": "gearloop",
+  "summary": "A polished gear checkout board for small teams to track availability, borrowers, due dates, and overdue equipment at a glance. Built as a self-contained React and Hono app with seeded in-memory data.",
+  "frontend": "React 19 + Vite",
+  "backend": "Hono 4 + Node adapter",
+  "storage": "in-memory",
+  "language": "typescript"
+}
